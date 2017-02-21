@@ -1,8 +1,0 @@
-{
-  "name": "mytheme",
-  "description": "a really cool theme",
-  "version": "1.0.0",
-  "engines": {
-    "node": "4.7.3"
-  }
-}
