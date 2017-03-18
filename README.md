@@ -1,1 +1,1 @@
-A responsive website theme using bootstrap, html5, css3, sass.
+A responsive website, bizlight theme template, using bootstrap, html5, css3, sass.
